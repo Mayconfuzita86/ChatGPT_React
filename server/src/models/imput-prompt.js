@@ -4,4 +4,4 @@ class ImputPrompt{
     }
 }
 
-module exports = ImputPrompt
+module.exports = ImputPrompt
